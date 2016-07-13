@@ -1,1 +1,7 @@
 erzhuxiangmu
+$ git push origin master -f
+
+$ git push origin master
+To https://github.com/weiz29/git1.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/weiz29/git1.git'
